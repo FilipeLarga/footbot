@@ -1,0 +1,10 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 15,
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 110,
+    "editor.rulers": [
+        110
+    ],
+    "explorer.excludeGitIgnore": true
+}
